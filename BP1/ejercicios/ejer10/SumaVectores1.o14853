@@ -1,0 +1,9 @@
+# Ejecución de Makefile en atcgrid.ugr.es
+#
+#    Id. usuario del trabajo: C3estudiante19
+#    Id. del trabajo: 14853.atcgrid
+#    Nombre  del trabajo especificado por usuario: SumaVectores1
+#    Nodo que ejecuta qsub: atcgrid
+#    Directorio en el que se ha ejecutado qsub: /home/C3estudiante19/bp1/ejer10
+#    Cola: ac
+#    Nodos asignados al trabajo: atcgrid1 
