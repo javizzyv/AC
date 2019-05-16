@@ -1,0 +1,73 @@
+Id. usuario del trabajo: C3estudiante19
+Id.  del trabajo: 21437.atcgrid
+Nombre  del trabajo especificado por usuario: pmtv-OpenMP
+Directorio en el que se ha ejecutado qsub: /home/C3estudiante19/bp3/ejer7
+Directorio de trabajo: /home/C3estudiante19
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid2
+Nº de threads inicial: 12
+estatico con chunk por defecto
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.035314373	
+
+estatico con chunk de 1
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.036739649	
+
+estatico con chunk de 64
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.030951973	
+
+dinamico con chunk por defecto
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.032565041	
+
+dinamico con chunk de 1
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.035944406	
+
+dinamico con chunk de 64
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.028559766	
+
+guiado con chunk por defecto
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.036856757	
+
+guiado con chunk de 1
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.050059728	
+
+guiado con chunk de 64
+
+El resultado es:
+El primer componente es 92160 
+El ultimo componente es 6 
+Tiempo: 0.035769613	
+

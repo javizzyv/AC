@@ -1,0 +1,73 @@
+Id. usuario del trabajo: C3estudiante19
+Id.  del trabajo: 21475.atcgrid
+Nombre  del trabajo especificado por usuario: pmm-OpenMP
+Directorio en el que se ha ejecutado qsub: /home/C3estudiante19/bp3/ejer10
+Directorio de trabajo: /home/C3estudiante19
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid3
+Nº de threads inicial: 12
+estatico con chunk por defecto
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.301642434	
+
+estatico con chunk de 1
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.292049173	
+
+estatico con chunk de 64
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.323104274	
+
+dinamico con chunk por defecto
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.293433338	
+
+dinamico con chunk de 1
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 4.430911989	
+
+dinamico con chunk de 64
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.287058310	
+
+guiado con chunk por defecto
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.555089287	
+
+guiado con chunk de 1
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.288901772	
+
+guiado con chunk de 64
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 3.377660259	
+

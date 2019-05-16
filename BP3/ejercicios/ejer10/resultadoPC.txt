@@ -1,0 +1,64 @@
+Nº de threads inicial: 6
+estatico con chunk por defecto
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.205095852	
+
+estatico con chunk de 1
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.173139166	
+
+estatico con chunk de 64
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.175329787	
+
+dinamico con chunk por defecto
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.166112108	
+
+dinamico con chunk de 1
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.165984120	
+
+dinamico con chunk de 64
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.164251844	
+
+guiado con chunk por defecto
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.176633466	
+
+guiado con chunk de 1
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.162882676	
+
+guiado con chunk de 64
+
+Primer componente: 6 
+Segundo componente: 6 
+
+Tiempo: 0.170652225	
+
